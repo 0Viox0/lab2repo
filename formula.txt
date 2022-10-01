@@ -1,0 +1,2 @@
+//the perimetr of the rectangle
+per = (a + b) * 2
